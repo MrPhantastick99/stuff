@@ -1,0 +1,5 @@
+Get-ChildItem -Path . -Recurse -Filter *.pdf | Unblock-File
+
+[or]
+
+Get-ChildItem -Path . -Recurse | Unblock-File
