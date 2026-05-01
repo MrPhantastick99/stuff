@@ -1,0 +1,10 @@
+
+
+Test sys:
+https://system-test.onvue.com/system_test?customer=pearson_vue&clientcode=COMPTIA&candidate_id=326192416&registration_id=534460581&locale=en-US 
+
+
+Exam:
+https://examlaunchpad.pearsonvue.com/entry-point/launch-exam/COMPTIA/OP?registrationToken=hoTHIaJ3xro89arTr2Z4FShIh6tQECFN4qOYXAFXriZ%2FPQgLOJeQJ4V7O96F13T2DppRu0nNz%2Fwn1KW4hqV6SPZ%2FEh3C%2BU5wp7kA4hCvP7XdkeCla%2FUVqEBuDZuHgru%2Brv4ZXZELk9d5V%2FYljCmjAA%3D%3D&locale=en-US
+
+
